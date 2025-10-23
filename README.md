@@ -1,6 +1,6 @@
 # Arithmetic Library – Build & Run
 
-## ⚙️ Build the project
+## Build the project
 
 ```bash
 mkdir build && cd build
